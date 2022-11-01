@@ -1,0 +1,7 @@
+.vercel
+
+/sanity/node_modules/
+
+*/node_modules/*
+
+next-travel/node_modules
